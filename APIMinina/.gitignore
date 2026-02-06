@@ -1,0 +1,10 @@
+## Visual Studio
+.vs/
+*.slnx
+
+## Build
+bin/
+obj/
+
+## User secrets
+**/secrets.json
